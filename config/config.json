@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x961c6d20a8791b5a033872f03babbdb55f5e29dc",
+  "SCAN_LINK": "https://polygonscan.com/address/0x961c6d20a8791b5a033872f03babbdb55f5e29dc",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CryptoPuffsNFT",
+  "SYMBOL": "CP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 6000000000000000000,
+  "DISPLAY_COST": 6,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptopuffsnft",
+  "SHOW_BACKGROUND": true
+}
